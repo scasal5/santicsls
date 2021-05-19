@@ -1,4 +1,6 @@
 
+![1432865561_anim_opt](https://user-images.githubusercontent.com/77444767/118848173-e4efcc00-b8a4-11eb-9ae0-637f0e6132a5.gif)
+
 
 👋 Hi! I am Santiago 👨 and I have been a developer for several years 👩‍💻  
   
