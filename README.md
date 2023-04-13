@@ -19,7 +19,7 @@ Here I will upload some of my projects open-source.
 
 <p align="center"> 
 
-Send a mail to <a align="center" href="mailto:santiago@casals.ar">santiago@casals.ar</a>
+Send a mail to santiago@casals.ar
 <br>
 Goodbye 👋.
   
