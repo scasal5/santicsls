@@ -13,9 +13,8 @@ Here I will upload some of my projects open-source.
 <h3 align="center">How reach me?</h3>
 
 <p align="center"> 
-  
- 123
-  
+Send a mail to <a align="center" href="https://www.java.com" target="_blank">santiago@casals.ar</a><br>
+Thanks for visit my profile, goodbye 👋.
 </p>
 
 
