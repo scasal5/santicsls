@@ -1,6 +1,6 @@
 # Welcome 👋
 
-<h3 align="center">Hi! I'm Santiago! </h3>
+<h3 align="center">Hi! I'm Santiago. </h3>
 <p align="center">
 I am an ambitious student with computing and programming 😴.  
 Here I will upload some of my projects open-source.
@@ -13,7 +13,14 @@ Here I will upload some of my projects open-source.
   
 <img src="https://komarev.com/ghpvc/?username=santicsls&label=Vistas&color=ff0000&style=plastic" alt="santicsls" />
 
-Reach me by <a href="mailto:santiago@casals.ar">santiago@casals.ar</a>
+</p>
+
+<h3 align="center">How reach me?</h3>
+
+<p align="center"> 
+
+Send a mail to <a align="center" href="mailto:santiago@casals.ar">santiago@casals.ar</a>
+<br>
 Goodbye 👋.
   
 </p>
