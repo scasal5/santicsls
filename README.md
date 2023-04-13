@@ -18,11 +18,8 @@ Here I will upload some of my projects open-source.
 <h3 align="center">How reach me?</h3>
 
 <p align="center"> 
-
-Send a mail to santiago@casals.ar
-<br>
+  Send a mail to <a href="https://www.java.com" target="_blank">santiago@casals.ar</a>
 Goodbye 👋.
-  
 </p>
 
 
