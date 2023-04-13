@@ -14,9 +14,7 @@ Here I will upload some of my projects open-source.
 
 <p align="center"> 
   
-  Send a mail to <a align="center" href="https://www.java.com" target="_blank">santiago@casals.ar</a>
-  <br>
-  Thanks for visit my profile, goodbye 👋.
+ 123
   
 </p>
 
