@@ -13,14 +13,14 @@ Here I will upload some of my projects open-source.
 <h3 align="center">How reach me?</h3>
 
 <p align="center"> 
-Send a mail to <a align="center" href="https://www.java.com" target="_blank">santiago@casals.ar</a><br>
+Send a mail to <a align="center" href="mailto:santiago@casals.ar" target="_blank">santiago@casals.ar</a><br>
 Thanks for visit my profile, goodbye 👋.
 </p>
 
 
 <p align="center"> 
   
-<img src="https://komarev.com/ghpvc/?username=santicsls&label=Vistas&color=ff0000&style=plastic" alt="santicsls" />
+<img src="https://komarev.com/ghpvc/?username=santicsls&label=Views&color=ff0000&style=plastic" alt="santicsls" />
 
 </p>
 
