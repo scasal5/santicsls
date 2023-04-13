@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi! I'm Santiago. </h3>
 <p align="center">
-I am an ambitious student with computing and programming 😴.  
+I am an ambitious student with computing and programming 🧑‍💻.<br>  
 Here I will upload some of my projects open-source.
 </p>
 
