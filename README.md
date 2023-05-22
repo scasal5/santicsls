@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi! I'm Santiago. </h3>
 <p align="center">
-🧑‍💻 I am an ambitious student with computing and programming 🧑‍💻<br>  
+🧑‍ Ambitious student with computing and programming 💻<br>  
 Here I will upload some of my projects open-source.
 </p>
 
@@ -15,12 +15,5 @@ Here I will upload some of my projects open-source.
 <p align="center"> 
 Send a mail to <a align="center" href="mailto:santiago@casals.ar" target="_blank">santiago@casals.ar</a><br>
 Thanks for visit my profile, goodbye 👋.
-</p>
-
-
-<p align="center"> 
-  
-<img src="https://komarev.com/ghpvc/?username=santicsls&label=Views&color=ff0000&style=plastic" alt="santicsls" />
-
 </p>
 
