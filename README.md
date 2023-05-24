@@ -1,6 +1,5 @@
-# Welcome 👋
+# Hi 👋
 
-<h3 align="center">hi</h3>
 <p align="center">
 Ambitious student with computing and programming 💻<br>  
 Here I will upload some of my projects open-source.
