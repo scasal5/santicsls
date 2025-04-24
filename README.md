@@ -12,7 +12,7 @@ Aquí vas a encontrar proyectos personales y herramientas open-source que suelo 
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Activamente trabajando
 
 <p align="center">
   <a href="https://github.com/casals-ar/proxy.casals.ar">
@@ -64,6 +64,7 @@ Aquí vas a encontrar proyectos personales y herramientas open-source que suelo 
 ---
 
 Gracias por pasar por mi perfil. Si querés colaborar o tenés alguna propuesta, ¡no dudes en contactarme!
+E-mail: santiago@casals.ar
 
 ---
 
