@@ -1,28 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hola!+Soy+Santiago+Casals;Desarrollador+Web+Full-Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=👋+Hola!+Soy+Santiago+Casals;Software+Developer+👨‍💻" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👋 Sobre mí
+### 👋 About me
 
-Soy un desarrollador freelance argentino con experiencia en desarrollo full-stack, automatización, seguridad informática y administración de servidores. Actualmente trabajo en la Universidad de Palermo desarrollando herramientas internas y estoy cursando la Licenciatura en Ciberseguridad.
+I'm a freelance developer with a strong focus on backend development, automation, and cybersecurity. At the University of Palermo, I successfully built and deployed several internal tools that improved operational efficiency across departments — including a custom proxy manager and secure interaction tracking systems.
 
-Aquí vas a encontrar proyectos personales y herramientas open-source que suelo utilizar y mantener activamente.
+Here you'll find tools I actively maintain, built to solve real problems — not just exercises. Every repo represents a challenge faced, a solution designed, and a result delivered :)
 
----
 
-### 🚀 Activamente trabajando
-
-<p align="center">
-  <a href="https://github.com/casals-ar/proxy.casals.ar">
-    <img src="https://img.shields.io/badge/Proxy_Manager-blue?style=for-the-badge">
-  </a>
-</p>
-
----
-
-### 💻 Lenguajes y tecnologías
+### 💻 Stack
 
 <p align="center">
   <!-- Lenguajes -->
@@ -36,11 +25,6 @@ Aquí vas a encontrar proyectos personales y herramientas open-source que suelo 
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
 </p>
-
----
-
-### 🛠️ Entornos y herramientas
-
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
@@ -57,14 +41,10 @@ Aquí vas a encontrar proyectos personales y herramientas open-source que suelo 
 
 ---
 
-### 📌 Repositorios fijados
+### 📌 Check my pinned repos! 👇
 
-👇 Estos son algunos de mis proyectos favoritos 👇
-
----
-
-Gracias por pasar por mi perfil. Si querés colaborar o tenés alguna propuesta, ¡no dudes en contactarme!
-E-mail: santiago@casals.ar
-
----
-
+<p align="center">
+  <a href="https://github.com/casals-ar/proxy.casals.ar">
+    <img src="https://img.shields.io/badge/Proxy_Manager-blue?style=for-the-badge">
+  </a>
+</p>
