@@ -45,6 +45,6 @@ Here you'll find tools I actively maintain, built to solve real problems — not
 
 <p align="center">
   <a href="https://github.com/casals-ar/proxy.casals.ar">
-    <img src="https://img.shields.io/badge/Proxy_Manager-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Proxy_List-blue?style=for-the-badge">
   </a>
 </p>
