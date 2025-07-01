@@ -6,10 +6,7 @@
 
 ### 👋 About me
 
-I'm a freelance developer with a strong focus on backend development, automation, and cybersecurity. At the University of Palermo, I successfully built and deployed several internal tools that improved operational efficiency across departments — including a custom proxy manager and secure interaction tracking systems.
-
-Here you'll find tools I actively maintain, built to solve real problems — not just exercises. Every repo represents a challenge faced, a solution designed, and a result delivered :)
-
+I'm a freelance developer with a strong focus on backend development, automation, and cybersecurity. At the University of Palermo, I successfully built and deployed several internal tools that improved operational efficiency across departments — including a custom proxy manager! Find out 👇
 
 ### 💻 Stack
 
